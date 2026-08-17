@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Aseem, a Data Science student based in the UK.
 
-Right now, I'm studying Mathematics for ML (Probability, Statistics, Linear Algebra mixed with a sprinkle of Analysis) and looking to apply it to any field I find interesting (Data Science, Finance, both of them are cool).
+Right now, I'm studying Data Science (Probability, Statistics, Linear Algebra mixed with a sprinkle of Analysis) and looking to apply it to any field I find interesting (ML, Finance, both of them are cool).
 
 Languages - I'm strongest in Python/SQL (for Data Science, you see)  but I have also used C(++), C#, R in the past (A bit rusty in these as of now ).
 
